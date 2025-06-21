@@ -1,0 +1,1 @@
+// productModel.js placeholder content
